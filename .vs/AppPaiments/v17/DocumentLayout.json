@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\ateliers\\C#\\AppPaiments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|C:\\ateliers\\C#\\AppPaiments\\utilisateyr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|solutionrelative:utilisateyr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|C:\\ateliers\\C#\\AppPaiments\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|solutionrelative:paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\cartecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\cartecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|C:\\ateliers\\C#\\AppPaiments\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|solutionrelative:paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|C:\\ateliers\\C#\\AppPaiments\\utilisateyr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|solutionrelative:utilisateyr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|C:\\ateliers\\C#\\AppPaiments\\Paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "utilisateur.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\utilisateur.cs",
               "RelativeDocumentMoniker": "AppPaiments\\utilisateur.cs",
               "ToolTip": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\utilisateur.cs",
               "RelativeToolTip": "AppPaiments\\utilisateur.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T21:28:35.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "utilisateyr.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\utilisateyr.cs",
               "RelativeDocumentMoniker": "utilisateyr.cs",
@@ -76,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "paypal.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\paypal.cs",
               "RelativeDocumentMoniker": "AppPaiments\\paypal.cs",
               "ToolTip": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\paypal.cs",
               "RelativeToolTip": "AppPaiments\\paypal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T21:12:13.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "paypal.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\paypal.cs",
               "RelativeDocumentMoniker": "paypal.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CarteCredit.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\CarteCredit.cs",
               "RelativeDocumentMoniker": "AppPaiments\\CarteCredit.cs",
@@ -122,7 +122,8 @@
               "RelativeToolTip": "AppPaiments\\CarteCredit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T20:46:49.806Z"
+              "WhenOpened": "2024-10-24T20:46:49.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Paiement.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Paiement.cs",
               "RelativeDocumentMoniker": "AppPaiments\\Paiement.cs",
@@ -146,17 +147,18 @@
               "RelativeToolTip": "AppPaiments\\Paiement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T19:45:17.372Z"
+              "WhenOpened": "2024-10-24T19:45:17.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Program.cs",
               "RelativeDocumentMoniker": "AppPaiments\\Program.cs",
               "ToolTip": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Program.cs",
               "RelativeToolTip": "AppPaiments\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T19:20:45.631Z",
               "EditorCaption": ""

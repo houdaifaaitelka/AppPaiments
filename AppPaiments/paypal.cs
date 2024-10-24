@@ -12,7 +12,7 @@ namespace AppPaiments
         public paypal(double montant, string description, string email)
             : base(montant, description)
         {
-            email = email;
+          this.email = email;
         }
         public new void AfficherDetails()
         {
