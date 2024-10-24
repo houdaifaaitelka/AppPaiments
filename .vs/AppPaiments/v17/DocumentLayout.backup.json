@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\ateliers\\C#\\AppPaiments\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|C:\\ateliers\\C#\\AppPaiments\\Paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|Solution Items{7FDC89FF-2588-4FC1-ADCA-8DF010CEDA36}|solutionrelative:Paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|c:\\ateliers\\c#\\apppaiments\\apppaiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0044A0FD-23C2-4D27-8FDE-EF9F91460283}|AppPaiments\\AppPaiments.csproj|solutionrelative:apppaiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\Paiement.cs",
+              "RelativeDocumentMoniker": "Paiement.cs",
+              "ToolTip": "C:\\ateliers\\C#\\AppPaiments\\Paiement.cs",
+              "RelativeToolTip": "Paiement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:35.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Paiement.cs",
+              "RelativeDocumentMoniker": "AppPaiments\\Paiement.cs",
+              "ToolTip": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Paiement.cs",
+              "RelativeToolTip": "AppPaiments\\Paiement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:45:17.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Program.cs",
               "RelativeDocumentMoniker": "AppPaiments\\Program.cs",
               "ToolTip": "C:\\ateliers\\C#\\AppPaiments\\AppPaiments\\Program.cs",
               "RelativeToolTip": "AppPaiments\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T19:20:45.631Z",
               "EditorCaption": ""
