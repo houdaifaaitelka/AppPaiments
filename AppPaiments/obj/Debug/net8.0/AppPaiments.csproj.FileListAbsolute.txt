@@ -1,0 +1,15 @@
+C:\ateliers\C#\AppPaiments\AppPaiments\bin\Debug\net8.0\AppPaiments.exe
+C:\ateliers\C#\AppPaiments\AppPaiments\bin\Debug\net8.0\AppPaiments.deps.json
+C:\ateliers\C#\AppPaiments\AppPaiments\bin\Debug\net8.0\AppPaiments.runtimeconfig.json
+C:\ateliers\C#\AppPaiments\AppPaiments\bin\Debug\net8.0\AppPaiments.dll
+C:\ateliers\C#\AppPaiments\AppPaiments\bin\Debug\net8.0\AppPaiments.pdb
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.AssemblyInfoInputs.cache
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.AssemblyInfo.cs
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.csproj.CoreCompileInputs.cache
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.sourcelink.json
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.dll
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\refint\AppPaiments.dll
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.pdb
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\AppPaiments.genruntimeconfig.cache
+C:\ateliers\C#\AppPaiments\AppPaiments\obj\Debug\net8.0\ref\AppPaiments.dll
