@@ -11,5 +11,17 @@ internal class Program
         carte2.AfficherDetails();
         carte3.AfficherDetails();
 
+
+
+
+
+      
+        paypal paypal1 = new paypal(89.00, "Achat d'abonnement", "aitelkadihoudaifa@gmail.com");
+        paypal paypal2 = new paypal(100.99, "Achat d'abonnement", "hassan30@gmail.com");
+
+      
+        paypal1.AfficherDetails();
+        paypal2.AfficherDetails();
+
     }
 }
